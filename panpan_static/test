@@ -1,0 +1,33 @@
+Epoch 1/100
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\IPython\core\interactiveshell.py", line 3437, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-905417ee1908>", line 1, in <module>
+    runfile('C:/Users/Cony/Desktop/panpan_static/proposed_no_loss.py', wdir='C:/Users/Cony/Desktop/panpan_static')
+  File "E:\Program Files\JetBrains\PyCharm 2021.3.3\plugins\python\helpers\pydev\_pydev_bundle\pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "E:\Program Files\JetBrains\PyCharm 2021.3.3\plugins\python\helpers\pydev\_pydev_imps\_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "C:/Users/Cony/Desktop/panpan_static/proposed_no_loss.py", line 509, in <module>
+    proposed_model.train(prefix + proposed_model_name, x_train, y_train, x_val,
+  File "C:/Users/Cony/Desktop/panpan_static/proposed_no_loss.py", line 431, in train
+    self.model.fit(x=training_generator,
+  File "C:\ProgramData\Anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 67, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\framework\func_graph.py", line 1129, in autograph_handler
+    raise e.ag_error_metadata.to_exception(e)
+ValueError: in user code:
+    File "C:\ProgramData\Anaconda3\lib\site-packages\keras\engine\training.py", line 878, in train_function  *
+        return step_function(self, iterator)
+    File "C:\ProgramData\Anaconda3\lib\site-packages\keras\engine\training.py", line 867, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\ProgramData\Anaconda3\lib\site-packages\keras\engine\training.py", line 860, in run_step  **
+        outputs = model.train_step(data)
+    File "C:\ProgramData\Anaconda3\lib\site-packages\keras\engine\training.py", line 809, in train_step
+        loss = self.compiled_loss(
+    File "C:\ProgramData\Anaconda3\lib\site-packages\keras\engine\compile_utils.py", line 231, in __call__
+        reg_loss = tf.add_n(regularization_losses)
+    ValueError: Shapes must be equal rank, but are 1 and 2
+    	From merging shape 0 with other shapes. for '{{node AddN}} = AddN[N=2, T=DT_FLOAT](model/gradient_boosting_deicision_tree_layer/add_1402, model/autoencoder_loss_layer/mul)' with input shapes: [32], [?,10240].
+
+
