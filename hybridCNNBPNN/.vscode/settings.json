@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "src/com/company/Jama-1.0.3.jar"
-    ]
-}

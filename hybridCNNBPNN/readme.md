@@ -1,0 +1,9 @@
+- intro
+  - This directory is the code for the article HYDRA: A multimodal deep learning framework for malware classification.
+  - There are 2 folders.
+    - Java verion: Provide Original Jave version Code
+    - Python version: Reproduct by python
+        - API_1500.pkl: API definition
+        - disassemble_pe.py: input PE files and output asm files
+        - extract_opcodes_APIs.py: Extract API and opcodes infos to pickle file from ASM files
+        - hydra.py: the model

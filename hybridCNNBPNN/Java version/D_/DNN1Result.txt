@@ -1,0 +1,510 @@
+Date Time: Thu Jan 06 22:08:21 CST 2022
+circle: 0
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:21 CST 2022
+circle: 1
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:21 CST 2022
+circle: 2
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:22 CST 2022
+circle: 3
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:22 CST 2022
+circle: 4
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:22 CST 2022
+circle: 5
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:23 CST 2022
+circle: 6
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:23 CST 2022
+circle: 7
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:23 CST 2022
+circle: 8
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:24 CST 2022
+circle: 9
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:24 CST 2022
+circle: 10
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:24 CST 2022
+circle: 11
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:25 CST 2022
+circle: 12
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:25 CST 2022
+circle: 13
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:25 CST 2022
+circle: 14
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:25 CST 2022
+circle: 15
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:26 CST 2022
+circle: 16
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:26 CST 2022
+circle: 17
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:26 CST 2022
+circle: 18
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:27 CST 2022
+circle: 19
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:27 CST 2022
+circle: 20
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:27 CST 2022
+circle: 21
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:28 CST 2022
+circle: 22
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:28 CST 2022
+circle: 23
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:28 CST 2022
+circle: 24
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:28 CST 2022
+circle: 25
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:29 CST 2022
+circle: 26
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:29 CST 2022
+circle: 27
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:29 CST 2022
+circle: 28
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:30 CST 2022
+circle: 29
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:30 CST 2022
+circle: 30
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:30 CST 2022
+circle: 31
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:31 CST 2022
+circle: 32
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:31 CST 2022
+circle: 33
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:31 CST 2022
+circle: 34
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:32 CST 2022
+circle: 35
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:32 CST 2022
+circle: 36
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:32 CST 2022
+circle: 37
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:32 CST 2022
+circle: 38
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:33 CST 2022
+circle: 39
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:33 CST 2022
+circle: 40
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:33 CST 2022
+circle: 41
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:34 CST 2022
+circle: 42
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:34 CST 2022
+circle: 43
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:34 CST 2022
+circle: 44
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:35 CST 2022
+circle: 45
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:35 CST 2022
+circle: 46
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:35 CST 2022
+circle: 47
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:36 CST 2022
+circle: 48
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:36 CST 2022
+circle: 49
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:36 CST 2022
+circle: 50
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:37 CST 2022
+circle: 51
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:37 CST 2022
+circle: 52
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:37 CST 2022
+circle: 53
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:38 CST 2022
+circle: 54
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:38 CST 2022
+circle: 55
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:38 CST 2022
+circle: 56
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:39 CST 2022
+circle: 57
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:39 CST 2022
+circle: 58
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:39 CST 2022
+circle: 59
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:40 CST 2022
+circle: 60
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:40 CST 2022
+circle: 61
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:40 CST 2022
+circle: 62
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:41 CST 2022
+circle: 63
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:41 CST 2022
+circle: 64
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:41 CST 2022
+circle: 65
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:42 CST 2022
+circle: 66
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:42 CST 2022
+circle: 67
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:42 CST 2022
+circle: 68
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:43 CST 2022
+circle: 69
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:43 CST 2022
+circle: 70
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:43 CST 2022
+circle: 71
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:44 CST 2022
+circle: 72
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:44 CST 2022
+circle: 73
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:44 CST 2022
+circle: 74
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:45 CST 2022
+circle: 75
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:45 CST 2022
+circle: 76
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:45 CST 2022
+circle: 77
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:46 CST 2022
+circle: 78
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:46 CST 2022
+circle: 79
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:46 CST 2022
+circle: 80
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:47 CST 2022
+circle: 81
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:47 CST 2022
+circle: 82
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:47 CST 2022
+circle: 83
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %
+Date Time: Thu Jan 06 22:08:48 CST 2022
+circle: 84
+right: 0.0 wrong: 0.0
+right: 0.0 wrong: 0.0
+Accuracy: NaN %
+Accuracy: NaN %

@@ -1,0 +1,14 @@
+- intro
+  - This directory is the code for the article Detecting-unknown-malware-from-asci
+  - There are 4 folders.
+    - b_string & m_string
+        - folders to store string file for each sample
+    - string preprocessing
+        - get_strings.py
+            - strings of pe file are extracted from "strings" program into txt files.
+        - get_csv_data.py
+            - turn all txt files into csv data.
+    - lsi+svm
+        - svm_train.py & svm_predict
+            - the model
+
